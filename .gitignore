@@ -1,7 +1,9 @@
-# Object file
-*.o
+# Logs
+logs
+*.log
 
-one
+# Dependency directory
+node_modules
 
-# Ada Library Information
-*.ali
+# Garbage files
+.DS_Store
