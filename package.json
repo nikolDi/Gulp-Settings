@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nikolDi/Gulp-Settings/issues"
   },
-  "homepage": "https://github.com/nikolDi/Gulp-Settings#readme"
+  "homepage": "https://github.com/nikolDi/Gulp-Settings#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
 }
