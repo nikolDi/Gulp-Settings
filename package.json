@@ -18,5 +18,8 @@
   "homepage": "https://github.com/nikolDi/Gulp-Settings#readme",
   "devDependencies": {
     "gulp": "^4.0.0"
+  },
+  "dependencies": {
+    "npm-git-install": "^0.3.0"
   }
 }
