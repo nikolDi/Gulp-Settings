@@ -9,6 +9,3 @@ gulp.task('sass', function() {
 		.pipe(browserSync.reload({stream: true}));
 });
 
-
-
-
