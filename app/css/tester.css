@@ -1,0 +1,8 @@
+.one {
+  padding: 0;
+  margin: 0 auto; }
+  .one__look {
+    color: grey;
+    background-color: #fff; }
+  .one__tipe1 {
+    font-size: 16rem; }
