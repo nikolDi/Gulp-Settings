@@ -1,3 +1,7 @@
+# Temp files
+app/**/*
+app
+
 # Logs
 logs
 *.log
@@ -7,3 +11,7 @@ node_modules
 
 # Garbage files
 .DS_Store
+
+# Readme file
+
+README.md
