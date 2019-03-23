@@ -1,5 +1,5 @@
 # Gulp-Settings
-Gulp settings to start work.
+Gulp 4 settings to start work.
 
 Check NODE:
 

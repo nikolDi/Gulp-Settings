@@ -5,8 +5,9 @@
     margin: 0 auto;
 
     &__look {
-        color: grey;
-        background-color: #fff;
+        display: block;
+        color: rgb(245, 237, 237);
+        background-color: #482dc0;
     }
     &__tipe1 {
         font-size: 16rem;
